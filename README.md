@@ -2,8 +2,8 @@
 
 ## Team Names and Project Abstract
 
-**Team Members**: Forrest Brown, Evan DiFilippo, and JP Burger
-**Advisor**: Joe Moeller (Kinetic Vision)
+**Team Members**: Forrest Brown, Evan DiFilippo, and JP Burger</br>
+**Advisor**: Joe Moeller (Kinetic Vision)</br>
 **Project Abstract**: Our mobile application is a technologically advanced replacement for the common gym notebook. Many casual lifters and almost all serious lifters measure their progress in the gym over time. The most common metric to do this is progressive overload, otherwise known as a continuous increase in weight moved or repetitions performed. The goal of our tracker is not just to digitize the process of tracking progressive overload, but to make it effortless for the user. The app features an intuitive data entry system, visualization of the data, and an optional hands-free data tracking feature that uses motion capture technology to automatically count the user's reps and motivate the user to overload.
 
 ## Project Description
@@ -19,24 +19,24 @@ Diagrams can be found at [Design Diagrams](Design_Diagrams)
 
 ## Project Tasks and Timeline
 
-Task List can be found at [Homework Essays/Assignment #5 - Task Lists](Homework%20Essays/Assignment%20#5%20-%20Task%20Lists)</br>
-Timeline and Effort Matrix can be found at [Homework Essays/Assignment #6 - Milestones, Timeline, and Effort Matrix](Homework%20Essays/Assignment%20#6%20-%20Milestones,%20Timeline,%20and%20Effort%20Matrix)
+Task List can be found at [Homework Essays/Assignment #5 - Task Lists](Homework%20Essays/Assignment%20%2335%20-%20Task%20Lists)</br>
+Timeline and Effort Matrix can be found at [Homework Essays/Assignment #6 - Milestones, Timeline, and Effort Matrix](Homework%20Essays/Assignment%20%2336%20-%20Milestones,%20Timeline,%20and%20Effort%20Matrix)
 
 ## ABET Concerns Essay
 
-ABET Concerns Essay can be found at [Homework Essays/Assignment #7 - Project Constraints Essay](Homework%20Essays/Assignment%20#7%20-%20Project%20Constraints%20Essay)
+ABET Concerns Essay can be found at [Homework Essays/Assignment #7 - Project Constraints Essay](Homework%20Essays/Assignment%20%2337%20-%20Project%20Constraints%20Essay)
 
 ## PPT Slideshow
 
-PPT Slideshow can be found at [Homework Essays/Assignment #8 - Slide Show - Fall Design Presentations](Homework%20Essays/Assignment%20#8%20-%20Slide%20Show%20-%20Fall%20Design%20Presentations)
+PPT Slideshow can be found at [Homework Essays/Assignment #8 - Slide Show - Fall Design Presentations](Homework%20Essays/Assignment%20%2338%20-%20Slide%20Show%20-%20Fall%20Design%20Presentations)
 
 ## Self-Assessment Essays
 
-Self-Assessment Essays can be found at [Homework Essays/Assignment #3 - Team Contract and Individual Capstone Assessment](Homework%20Essays/Assignment%20#3%20-%20Team%20Contract%20and%20Individual%20Capstone%20Assessment)
+Self-Assessment Essays can be found at [Homework Essays/Assignment #3 - Team Contract and Individual Capstone Assessment](Homework%20Essays/Assignment%20%2333%20-%20Team%20Contract%20and%20Individual%20Capstone%20Assessment)
 
 ## Professional Biographies
 
-Professional Biographies can be found at [Homework Essays/Assignment #1 - Professional Biography](Homework%20Essays/Assignment%20#1%20-%20Professional%20Biography)
+Professional Biographies can be found at [Homework Essays/Assignment #1 - Professional Biography](Homework%20Essays/Assignment%20%2331%20-%20Professional%20Biography)
 
 ## Budget
 
