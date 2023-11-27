@@ -1,5 +1,7 @@
 # Team Task Lists
 
+**Each individual's task does not mean that the listed individual is doing all the work for that task. The assigned individual distributes the work for that task and combines every member's work. The task list displays the head of each of the project's tasks.**
+
 ## Forrest Brown's Tasks
 
 - Research artificial intelligence models to determine which model should be used for the application.
