@@ -8,13 +8,12 @@
 
 ## Project Description
 
-**Team Name**:  The Applicants
+**Team Name**:  The Applicants</br>
 **Project Topic**: A workout application for tracking workout information
 
 ## User Stories and Diagrams
 
-User Stories can be found at [Homework Essays
-/User_Stories.md](Homework%20Essays/User_Stories.md)</br>
+User Stories can be found at [Homework Essays/User_Stories.md](Homework%20Essays/User_Stories.md)</br>
 Diagrams can be found at [Design Diagrams](Design_Diagrams)
 
 ## Project Tasks and Timeline
