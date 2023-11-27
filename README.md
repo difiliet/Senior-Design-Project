@@ -14,12 +14,12 @@
 ## User Stories and Diagrams
 
 User Stories can be found at [Homework Essays
-/User_Stories.md](Homework%20Essays/User_Stories.md)
+/User_Stories.md](Homework%20Essays/User_Stories.md)</br>
 Diagrams can be found at [Design Diagrams](Design_Diagrams)
 
 ## Project Tasks and Timeline
 
-Task List can be found at [Homework Essays/Assignment #5 - Task Lists](Homework%20Essays/Assignment%20#5%20-%20Task%20Lists)
+Task List can be found at [Homework Essays/Assignment #5 - Task Lists](Homework%20Essays/Assignment%20#5%20-%20Task%20Lists)</br>
 Timeline and Effort Matrix can be found at [Homework Essays/Assignment #6 - Milestones, Timeline, and Effort Matrix](Homework%20Essays/Assignment%20#6%20-%20Milestones,%20Timeline,%20and%20Effort%20Matrix)
 
 ## ABET Concerns Essay
@@ -40,17 +40,17 @@ Professional Biographies can be found at [Homework Essays/Assignment #1 - Profes
 
 ## Budget
 
-Use of motion capture studio (Donated by Kinetic Vision): $6,250*
-Motion capture mentorship (Provided by Kinetic Vision employee): $350**
-Miscellaneous hardware and resources (Donated by Kinetic Vision): $1,000***
+Use of motion capture studio (Donated by Kinetic Vision): $6,250*</br>
+Motion capture mentorship (Provided by Kinetic Vision employee): $350**</br>
+Miscellaneous hardware and resources (Donated by Kinetic Vision): $1,000***</br>
 
-**Total**: $7,600
+**Total**: $7,600</br>
 
-*This number is calculated by the $500-$2000 per hour estimate from Animost Studio, taking the mean value ($1250) and estimating 5 hours in the studio. However, Kinetic Vision has not placed a 5 hour limit on our motion capture studio use, so this dollar value is subject to change. (Source: https://animost.com/ideas-inspirations/is-motion-capture-expensive/#:~:text=Motion%20capture%20can%20be%20expensive,Number%20of%20subjects)
+*This number is calculated by the $500-$2000 per hour estimate from Animost Studio, taking the mean value ($1250) and estimating 5 hours in the studio. However, Kinetic Vision has not placed a 5 hour limit on our motion capture studio use, so this dollar value is subject to change. (Source: https://animost.com/ideas-inspirations/is-motion-capture-expensive/#:~:text=Motion%20capture%20can%20be%20expensive,Number%20of%20subjects)</br>
 
-**This number is estimated based on the cost of classes from The Mocap Vaults. (Source: https://www.themocapvaults.com/classes)
+**This number is estimated based on the cost of classes from The Mocap Vaults. (Source: https://www.themocapvaults.com/classes)</br>
 
-***This number is a very rough estimate. Potential other resources given include but are not limited to: the use of GPUs for ML Training; the use of a single motion capture to test on a smaller scale; potential donation of a motion capture camera if the software is not functional on a mobile device’s camera as discussed in meeting.
+***This number is a very rough estimate. Potential other resources given include but are not limited to: the use of GPUs for ML Training; the use of a single motion capture to test on a smaller scale; potential donation of a motion capture camera if the software is not functional on a mobile device’s camera as discussed in meeting.</br>
 
 ## Appendix
 
@@ -64,34 +64,34 @@ RepCount: https://www.repcountapp.com/
 
 ### Meeting notes:
 
-**September 4th, 2023**
-Getting to know each team member
+**September 4th, 2023**</br>
+Getting to know each team member</br>
 Events of meeting:
 - Discussed each other's backgrounds
 - Reviewed each other's professional biographies (Assignment #1)
 - Created Project description (Group part of Assignment #2)
 
-**September 6th, 2023**
-Discuss and work on Assignment #3
+**September 6th, 2023**</br>
+Discuss and work on Assignment #3</br>
 Events of meeting:
 - Reviewed each other's individual capstone assessment
 - Created the team contract
 
-**September 13th, 2023**
-Initial contact with Kinetic Vision
+**September 13th, 2023**</br>
+Initial contact with Kinetic Vision</br>
 Events of meeting:
 - Introductions
 - Discussed Project Ideas
 - Discussed expectations from Kinetic Vision
 
-**September 17th, 2023**
-Discuss and work on Assignment #4
+**September 17th, 2023**</br>
+Discuss and work on Assignment #4</br>
 Events of meeting:
 - Discussed the details of the project
 - Created the design diagrams
 
-**September 22nd, 2023 (Kinetic Vision Meeting)**
-Meeting with Kinetic Vision to further discuss project details
+**September 22nd, 2023 (Kinetic Vision Meeting)**</br>
+Meeting with Kinetic Vision to further discuss project details</br>
 Events of Meeting:
 - Affiliations: 
   - Existing tools on the market lack desired features.
@@ -153,36 +153,36 @@ Events of Meeting:
   - Development lifecycle - poc, prototype, mvp
   - What does success look like for senior project
 
-**September 22nd, 2023 (Team Meeting)**
-Discuss and work on Assignment #5
+**September 22nd, 2023 (Team Meeting)**</br>
+Discuss and work on Assignment #5</br>
 Events of meeting:
 - Discussed what everyone's roles should be
 - Created the task list for the project
 
-**October 1st, 2023**
-Discuss and work on Assignment #6
+**October 1st, 2023**</br>
+Discuss and work on Assignment #6</br>
 Events of meeting:
 - Discussed what everyone's milestones are for the project
 - Discussed what everyone's expected timeline is for the project
 - Discussed the effort that each task would take
 - Created the milestones, timeline, and effort matrix for the project
 
-**October 8th, 2023**
-Discuss and work on Assignment #7
+**October 8th, 2023**</br>
+Discuss and work on Assignment #7</br>
 Events of meeting:
 - Discussed what constraints would affect our project
 - Created the project constraint essay
 
-**October 19th, 2023**
-Discuss and work on Assignments #8 and #9
+**October 19th, 2023**</br>
+Discuss and work on Assignments #8 and #9</br>
 Events of meeting:
 - Discussed what to include on our PowerPoint slideshow
 - Discussed who would be presenting what
 - Created the PowerPoint slideshow
 - Presented the slideshow in a video presentation
 
-**October 26th, 2023**
-Discuss and work on Assignment #10
+**October 26th, 2023**</br>
+Discuss and work on Assignment #10</br>
 Events of meeting:
 - Discussed what needs updating from previous assignments
 - Gathered and presented the budget information for the project
