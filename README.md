@@ -62,7 +62,7 @@ Code resources
 
 ### Final Application Code
 
-The final application code can be found at [Application_Code](Application%20Code) 
+The final application code can be found at [Application_Code](Application_Code) 
 
 ### Justification and meeting notes
 
