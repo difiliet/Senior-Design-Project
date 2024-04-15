@@ -58,10 +58,11 @@ Code resources
 - [Flutter table_calendar](https://pub.dev/packages/table_calendar)
 - [Flutter syncfusion_flutter_charts](https://pub.dev/packages/syncfusion_flutter_charts)
 - [Flutter sqflite_common_ffi](https://pub.dev/packages/sqflite_common_ffi)
+- [Flutter flutter_bcrypt](https://pub.dev/packages/flutter_bcrypt)
 
 ### Final Application Code
 
-The final application code can be found at [Application Code](Application%20Code) 
+The final application code can be found at [Application_Code](Application%20Code) 
 
 ### Justification and meeting notes
 

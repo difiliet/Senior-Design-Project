@@ -9,7 +9,7 @@
 
 ## Installation
 
-The installation is as simple as running the application on your device of choice. Another option is downloading The source code and building the application for your specific platform by using the Flutter steps found on Flutter's website. The pages for each platform are as follows:
+The installation is as simple as running the application on your device of choice. Another option is downloading the source code and building the application for your specific platform by using the Flutter steps found on Flutter's website. The pages for each platform are as follows:
 
 Android: https://docs.flutter.dev/deployment/android
 iOS: https://docs.flutter.dev/deployment/ios
