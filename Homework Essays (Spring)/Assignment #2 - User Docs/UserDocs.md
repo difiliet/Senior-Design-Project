@@ -1,13 +1,11 @@
 # How to use the Applicant's Workout Application
 
-<ol>
-<li>[Installation](#Installation)</li>
-<li>[Home Page](#home-page)</li>
-<li>[Graph Page](#graph-page)</li>
-<li>[History Page](#history-page)</li>
-<li>[Setting Page](#setting-page)</li>
-<li>[FAQ](#faq)</li>
-<ol>
+- [Installation](#installation)
+- [Home Page](#home-page)
+- [Graph Page](#graph-page)
+- [History Page](#history-page)
+- [Setting Page](#setting-page)
+- [FAQ](#faq)
 
 ## Installation
 
