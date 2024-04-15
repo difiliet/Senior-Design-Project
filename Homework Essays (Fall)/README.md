@@ -187,3 +187,10 @@ Events of meeting:
 - Gathered and presented the budget information for the project
 - Gathered and presented the meeting notes of the project
 - Updated the GitHub repository
+
+**December 1st, 2023 (Kinetic Vision Meeting)**</br>
+Meeting with Kinetic Vision to have an advisor evaluation</br>
+Events of meeting:
+- Have advisor evaluation of the fall design report
+- Gather suggestions to improve fall design report
+
